@@ -35,9 +35,15 @@ Patches can also be submitted to the development mailing list (see our **Develop
 
 ### Translation
 
+Want to help translate this project? 
+
+[Visit our Transifex project](https://explore.transifex.com/davide_alberani/imdbpy/).
 
 ### Development Mailing List
 
+imdbpy-devel@lists.sourceforge.net
+
+The mailing list is also open to non-subscribers (anyone can send emails) but is moderated by default: your first message needs to be approved; if it's on-topic, the succeeding ones will be automatically accepted.
 
 ### Additional Resources
 
