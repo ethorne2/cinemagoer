@@ -1,20 +1,29 @@
-
-
 ## Contribute to Cinemagoer!
 
 ### Welcome!
 
-Thank you for your interest in contributing to Cinemagoer. This contributor guide should help you get off to a good start. We appreciate each and every contributor.
+Thank you for your interest in contributing to Cinemagoer. This contributor guide should help you get off to a good start.
 
-### Repository
+We want to make contributing to this project as easy and transparent as possible, whether it's:
 
-We use GitHub for our repository. To start, [create your own GitHub account](https://github.com/signup).
+-   Reporting a bug
+-   Submitting a patch
+-   Proposing new features
+-  And more!
+
+[View our list of Contributors](https://cinemagoer.readthedocs.io/en/latest/credits.html), which we thank for being a part of Cinemagoer.
+
+### GitHub Repository
+
+We develop with GitHub. This is used as our code repository, where we can track issues and accept pull requests.
+
+To start using GitHub, [create your own account](https://github.com/signup).
 
 Our home page for our repository is found here: https://github.com/cinemagoer/cinemagoer
 
 ### Bugs
 
-We use Github issues to track our issues. 
+We use Github Issues to track issues. 
 
 [Visit our Issue Tracker](https://github.com/cinemagoer/cinemagoer/issues)
 
@@ -59,13 +68,8 @@ You will then be able to make your contribution, and either submit it via a Pull
 
 Please create your own branch for each Pull Request you submit. [Instructions on creating a branch by Github](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches).
 
-### Additional Resources
+### Additional Contributor Resources
 
 - [Visit our development page on our webiste](https://cinemagoer.github.io/development/)
 - [Visit our Read the Docs pages](https://cinemagoer.readthedocs.io/en/latest/index.html)
 - [Visit the Open Source Guide by Github](https://opensource.guide/how-to-contribute/) 
-
-
-#### Disclaimer
-
-This project and its authors are not affiliated in any way to Internet Movie Database Inc.; see the  [disclaimer](https://raw.githubusercontent.com/cinemagoer/cinemagoer/master/DISCLAIMER.txt)  file for details about data licenses.
