@@ -33,21 +33,37 @@ We use Github Pull Requests for submitting patches.
 
 Patches can also be submitted to the development mailing list (see our **Development Mailing List** section).
 
-### Translation
-
-Want to help translate this project? 
-
-[Visit our Transifex project](https://explore.transifex.com/davide_alberani/imdbpy/).
-
 ### Development Mailing List
 
 imdbpy-devel@lists.sourceforge.net
 
 The mailing list is also open to non-subscribers (anyone can send emails) but is moderated by default: your first message needs to be approved; if it's on-topic, the succeeding ones will be automatically accepted.
 
+### Translation
+
+Want to help translate this project? 
+
+[Visit our Transifex project](https://explore.transifex.com/davide_alberani/imdbpy/).
+
+Also, visit our Read the Docs page on [How to translate.](https://cinemagoer.readthedocs.io/en/latest/devel/translate.html)
+
+### Environment Set Up
+
+Ready to contribute to the Cinemagoer package? 
+
+First, make a clone of the repository. [Instructions for how to do so are provided by Github](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop). 
+
+Next, follow our instructions on the [Read the Docs - Development page](https://cinemagoer.readthedocs.io/en/latest/devel/index.html), to create a virtual environment and install Cinemagoer in editable mode with extra packages. 
+
+You will then be able to make your contribution, and either submit it via a Pull Request on Github or by sending in the patch to the development mailing list.
+
+Please create your own branch for each Pull Request you submit. [Instructions on creating a branch by Github](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches).
+
 ### Additional Resources
 
 - [Visit our development page on our webiste](https://cinemagoer.github.io/development/)
+- [Visit our Read the Docs pages](https://cinemagoer.readthedocs.io/en/latest/index.html)
+- [Visit the Open Source Guide by Github](https://opensource.guide/how-to-contribute/) 
 
 
 #### Disclaimer
